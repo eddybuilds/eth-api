@@ -1,0 +1,22 @@
+{
+  "name": "eth-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddybuilds/eth-api.git"
+  },
+  "author": "eddybuilds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddybuilds/eth-api/issues"
+  },
+  "homepage": "https://github.com/eddybuilds/eth-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
